@@ -29,8 +29,6 @@ import githubSocket from './socket/github';
 
 const app = express();
 
-const httpServer = createServer(app);
-
 //Add cors when in development
 const cors: { origin?: string } = {};
 if (process.env.NODE_ENV !== 'production') {
