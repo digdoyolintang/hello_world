@@ -1,4 +1,3 @@
 # hello_world  
-et,   at massa finibus ,  finifini   nisLoremLoreml  finibusfinibus liberol
-a
-testest
+
+This is only a dummy repository testing purpose only
