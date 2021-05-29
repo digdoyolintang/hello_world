@@ -19,7 +19,6 @@ import meeting from './routes/api/meeting';
 import note from './routes/api/note';
 import file from './routes/api/file';
 import activity from './routes/api/activity';
-import github from './routes/api/github';
 
 import joinProject from './socket/joinProject';
 import taskSocket from './socket/task';
